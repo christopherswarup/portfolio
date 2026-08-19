@@ -8,6 +8,8 @@ My core career has been spent building and improving the operating systems behin
 
 This repository is the public entry point to my portfolio: how I diagnose a real operating problem, make ownership and definitions explicit, connect process to systems and data, and take the work far enough into implementation for people to use it.
 
+I am currently between roles and open to Head/Director/VP Marketing Operations and Revenue Operations mandates — permanent, fractional or contract — available immediately.
+
 **This is the public overview.** The full portfolio — additional case studies, reusable operating frameworks, a skills library, and runnable diagnostic tools — is kept in a private repository with controlled access, available on request. If you're evaluating me for a role, get in touch and I'll grant access directly.
 
 ## Start with the question you are trying to answer
