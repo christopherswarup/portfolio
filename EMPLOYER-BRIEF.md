@@ -16,6 +16,8 @@ The visible problems are usually familiar: pipeline numbers are disputed, handof
 
 ## The roles this work supports
 
+I am currently available immediately for the right mandate — permanent, fractional or contract:
+
 - Head or Director of Marketing Operations
 - Head or Director of Revenue Operations
 - GTM Operations or Commercial Operations leader
