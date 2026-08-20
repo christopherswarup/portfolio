@@ -55,11 +55,9 @@ The work included:
 - Operating playbooks, reporting standards and performance dashboards
 - Cross-functional work with CRO, CXO, RevOps and AI Ops leadership on pipeline governance and scalability
 
-There are no invented outcome metrics here. The role lasted six months, so I would rather show what I built than manufacture a number for it.
-
 ### Contentsquare — scale, simplification and decision quality
 
-Following the merger of Contentsquare, Hotjar and Heap, I helped build a unified global Marketing Operations model across EMEA, AMER and APAC.
+Following the merger of Contentsquare, Hotjar and Heap, I led the build-out of a unified global Marketing Operations model across EMEA, AMER and APAC.
 
 - Built and scaled a Global MOPS COE supporting **120+ marketers**
 - Led **4 direct reports**, including one Director-level report
@@ -112,7 +110,7 @@ Before the larger global roles, I was already doing the same kind of work.
 
 At FE fundinfo, I built the Marketing Operations function and led a Salesforce + HubSpot overhaul across three sales organisations in eight months. That work included **£150K one-off vendor savings** plus roughly **£35K annual platform savings**.
 
-At Finastra, I helped build one of Europe's early enterprise Marketo environments across six business verticals. The wider lifecycle and demand work contributed to **+30% leads**, **+40% lead-to-opportunity conversion** and a **25% shorter sales cycle**, while a fully automated engagement programme reduced manual effort **80%** and increased engagement **60%**.
+At Finastra, I led one of Europe's early enterprise Marketo deployments across six business verticals. The wider lifecycle and demand work contributed to **+30% leads**, **+40% lead-to-opportunity conversion** and a **25% shorter sales cycle**, while a fully automated engagement programme reduced manual effort **80%** and increased engagement **60%**.
 
 ## What I build
 
