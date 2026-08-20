@@ -16,12 +16,14 @@ I don't think Marketing Operations or RevOps should be judged by how many ticket
 
 The measures I care about are closer to the business:
 
-- **Impact** — is the work changing pipeline, conversion or revenue performance?
+- **Impact** — is the work changing pipeline, conversion, customer progression or revenue performance?
 - **Effectiveness** — are teams doing the right work against the right accounts, signals and stages?
 - **Efficiency** — can we remove unnecessary cost, duplication and manual effort?
 - **Productivity** — can sellers, marketers and operators move faster without sacrificing quality?
+- **Pipeline** — are the operating changes improving velocity, conversion and quality through the funnel?
 - **Confidence** — can leadership trust the funnel, attribution, forecast and investment decisions?
-- **Scale** — can the model keep working as volume, regions, motions and complexity increase?
+- **Operating leverage** — can the business create more useful output without headcount, tooling and complexity rising at the same rate?
+- **Revenue** — does all of this ultimately improve the commercial outcome?
 
 That thread has followed me through every role.
 
@@ -40,6 +42,20 @@ That thread has followed me through every role.
 My earlier career included digital operations, technical sales, inside sales and commercial management. I still think that matters. GTM systems only work when they make sense to the people carrying a number and doing the work every day.
 
 ## A few outcomes that show the range
+
+### DevRev — building the GTM foundation in an AI-native company
+
+Most recently at DevRev, I led the design of the enterprise GTM lifecycle and lead-management operating model across Marketing, Sales and Product growth motions.
+
+The work included:
+
+- Global lifecycle definitions and SLA governance across inbound, outbound, PLG and event-driven acquisition
+- Signal and reporting architecture for attribution, lifecycle visibility and pipeline performance
+- Marketing automation strategy aligned to the system-of-record architecture
+- Operating playbooks, reporting standards and performance dashboards
+- Cross-functional work with CRO, CXO, RevOps and AI Ops leadership on pipeline governance and scalability
+
+There are no invented outcome metrics here. The role lasted six months, so I would rather show what I built than manufacture a number for it.
 
 ### Contentsquare — scale, simplification and decision quality
 
@@ -90,6 +106,14 @@ ABM, campaign automation and event technology work contributed to:
 
 I also built Salesforce dashboards across 13 countries and helped establish offshore campaign production that doubled capacity and reduced turnaround time.
 
+### FE fundinfo and Finastra — builder foundations
+
+Before the larger global roles, I was already doing the same kind of work.
+
+At FE fundinfo, I built the Marketing Operations function and led a Salesforce + HubSpot overhaul across three sales organisations in eight months. That work included **£150K one-off vendor savings** plus roughly **£35K annual platform savings**.
+
+At Finastra, I helped build one of Europe's early enterprise Marketo environments across six business verticals. The wider lifecycle and demand work contributed to **+30% leads**, **+40% lead-to-opportunity conversion** and a **25% shorter sales cycle**, while a fully automated engagement programme reduced manual effort **80%** and increased engagement **60%**.
+
 ## What I build
 
 ### MOPS and RevOps teams
@@ -110,6 +134,12 @@ I build the rules underneath GTM: lifecycle stages, scoring, routing, handoffs, 
 
 The aim is a shared commercial model that Marketing, Sales, Product, Finance and leadership can actually use — not five versions of the funnel living in five different systems.
 
+### Product signals into GTM
+
+I have worked across PLG and sales-led environments where product behaviour needs to inform what Marketing and Sales do next.
+
+At Pleo, bringing product-usage signals into scoring contributed to **+20% free-to-paid conversion**. That kind of connection is where Product, Marketing and Revenue Operations stop behaving like separate systems and start acting on the same customer signals.
+
 ### AI strategy and operating workflows
 
 I use AI as an operating capability, not a slide in a transformation deck.
@@ -124,11 +154,21 @@ My practical view is:
 
 That is the difference between AI experimentation and an AI operating strategy.
 
+I also work hands-on with **Claude, Claude Code, ChatGPT, OpenAI Codex, Lovable, GitHub and Notion** for research, workflow design, automation, technical problem-solving, prototyping and QA. That matters to me because I want to understand the capability myself, not manage AI through a slide deck.
+
 ### Planning, measurement and investment decisions
 
 I have managed budgets from ~$360K operations scope through to an $18M regional marketing budget. I have worked closely with Finance, RevOps, CROs and CMOs on pipeline targets, forecasting, attribution, QBRs, MBRs and technology investment.
 
 Good planning connects resources to outcomes. It should tell you what to stop, what to scale and where the next pound or hour should go.
+
+## How I tend to operate
+
+The strongest operators I have worked with tend to have a few things in common: they stay close to the commercial outcome, they understand enough detail to challenge the system, they simplify before they scale, and they look for leverage rather than activity.
+
+That is how I try to work.
+
+I can move from a CMO/CRO conversation about pipeline and investment into the lifecycle rule, routing logic, data issue or workflow underneath it. I do not think seniority should mean getting further away from how the business actually works.
 
 ## The kinds of problems I want to solve
 
@@ -137,7 +177,7 @@ I'm most useful when a **CMO, CRO, CPO, RevOps leader or MOPS leader** is dealin
 - Growth has outpaced the operating model
 - Pipeline is important but confidence in the numbers is low
 - Marketing contribution is difficult to defend commercially
-- The organisation needs to connect PLG and sales-led motions
+- The organisation needs to connect Product signals, PLG and sales-led motions
 - The martech/revtech stack needs rationalising or redesigning
 - Teams are compensating for process problems with more headcount
 - A merger or major transformation has created conflicting systems and definitions
