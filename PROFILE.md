@@ -1,28 +1,35 @@
-# Christopher Swarup — Professional Profile
+# About me
 
-## A quick introduction
+I'm Chris — a Marketing Operations, Revenue Operations and GTM systems leader with 15+ years of experience building the infrastructure behind B2B growth.
 
-I am a UK-based Marketing Operations, Revenue Operations and GTM systems leader with more than 15 years of experience.
+I'm at my best when something important has become harder to run than it should be.
 
-The easiest way to explain my career is that I have repeatedly worked in organisations that had outgrown the way they operated.
+The funnel is no longer trusted. The stack has become expensive and fragmented. Teams are adding manual work to compensate for weak systems. Product, Marketing and Sales are running different motions. Reporting exists, but nobody is completely confident in it. AI is being introduced, but without a clear operating model underneath it.
 
-Leads were arriving, but teams did not agree what they meant. Marketing reported pipeline that Revenue leadership did not trust. Fast-growing and acquired businesses inherited competing lifecycle models, fragmented platforms and inconsistent operating rules. My work has been to make the underlying decisions, ownership, process and data trustworthy first, then automate.
+That is usually where I come in.
 
-I have led Marketing Operations and Revenue Systems work across enterprise technology, global infrastructure, high-growth SaaS, post-merger environments and AI-native software. That has included direct and matrix leadership, martech ownership, operating-model design, platform change, analytics and executive partnership.
+I like building. Teams, operating models, lifecycle architecture, martech, attribution, planning frameworks, reporting layers and AI-enabled workflows. Not for the sake of having a framework, but because the business needs to become more effective, more efficient and easier to scale.
 
-## The principle I keep coming back to
+## What I optimise for
 
-Build the operating foundation first. Add automation and AI only when the underlying decisions, ownership, process and data can be trusted.
+I don't think Marketing Operations or RevOps should be judged by how many tickets they close or how many tools they administer.
 
-I am not cautious about AI because I doubt the technology. I am cautious about sequence. AI applied to contested definitions and unreliable operational data does not produce better decisions. It produces confident, well-formatted answers that are harder to challenge.
+The measures I care about are closer to the business:
 
-## My career so far
+- **Impact** — is the work changing pipeline, conversion or revenue performance?
+- **Effectiveness** — are teams doing the right work against the right accounts, signals and stages?
+- **Efficiency** — can we remove unnecessary cost, duplication and manual effort?
+- **Productivity** — can sellers, marketers and operators move faster without sacrificing quality?
+- **Confidence** — can leadership trust the funnel, attribution, forecast and investment decisions?
+- **Scale** — can the model keep working as volume, regions, motions and complexity increase?
 
-Only public professional facts are named here.
+That thread has followed me through every role.
+
+## Career
 
 | Period | Role | Organisation |
 |---|---|---|
-| Jan 2026–Jun 2026 (role ended) | Head of Global Marketing Operations | DevRev |
+| Jan 2026–Jun 2026 | Head of Global Marketing Operations | DevRev |
 | May 2023–Dec 2025 | Senior Director, Global Marketing Operations & Analytics | Contentsquare |
 | Jan 2022–Dec 2022 | Director, Marketing Operations & Outbound Sales Operations | Pleo |
 | Oct 2019–Jan 2022 | Director, Marketing Operations, Strategy & Analytics EMEA | Nutanix |
@@ -30,67 +37,133 @@ Only public professional facts are named here.
 | 2015–2016 | Head of Marketing Operations | FE fundinfo |
 | 2013–2015 | Global Demand Generation / Operations Manager | Finastra |
 
-My earlier career included digital operations, technical and inside sales, and commercial management. That grounding matters because the operating models I design have to work under real revenue pressure, not only in a presentation.
+My earlier career included digital operations, technical sales, inside sales and commercial management. I still think that matters. GTM systems only work when they make sense to the people carrying a number and doing the work every day.
 
-## Some of the measurable outcomes
+## A few outcomes that show the range
 
-- **Contentsquare** — consolidated the martech stack from 100 to 50 tools (–18% cost, +30% execution speed), lifted forecast accuracy +30% and reporting reliability +40% through a unified Snowflake + Tableau layer, cut SDR response lag –40% (MQL-to-SDR velocity +35%), removed $200K of annual agency dependency, lifted lifecycle engagement +22%, and scaled a Global MOPS COE supporting 120+ marketers across EMEA, AMER and APAC on a ~$1.8M MOPS and technology budget.
-- **Pleo** — built the company's first lead-to-deal operating model from scratch: +15% QoQ pipeline, +35% MQL-to-SQL, +20% free-to-paid conversion, SDR response time under 4 hours, on a ~$1.3M operations and technology budget with 3 direct reports.
-- **Nutanix** — drove a single-touch to multi-touch lead engine transformation across 14 EMEA countries: +156% MQL, +32% inquiries, +19% CTR, +120% downloads, managing an $18M annual marketing budget with a 4-person direct team.
-- **Equinix** — ABM and event automation rollout: +15% SDR productivity, +13% SQL, +10% programme ROI, on a $1.6M systems budget with 2 direct and 8 matrix reports.
+### Contentsquare — scale, simplification and decision quality
 
-**Education.** MBA in Business Administration and Marketing. BSc in Applied Business Computing.
+Following the merger of Contentsquare, Hotjar and Heap, I helped build a unified global Marketing Operations model across EMEA, AMER and APAC.
 
-**Certifications.** Forrester Demand and Account-Based Marketing, SiriusDecisions B2B Marketing Foundations Pro, Salesforce ADM201, Tableau Desktop and Strategic Marketing Planning.
+- Built and scaled a Global MOPS COE supporting **120+ marketers**
+- Led **4 direct reports**, including one Director-level report
+- Managed a **~$1.8M MOPS and technology budget**
+- Consolidated the martech estate from **100+ tools to 50**
+- Reduced technology cost **18%** while improving execution speed **30%**
+- Improved forecast accuracy **30%** and reporting reliability **40%** through a unified Snowflake + Tableau layer
+- Used AI-assisted routing and prioritisation to cut SDR response lag **40%** and improve MQL-to-SDR velocity **35%**
+- Removed **$200K annual agency dependency** by insourcing campaign operations
+- Launched Iterable lifecycle journeys that improved engagement **22%**
 
-## What I have led
+### Pleo — building the revenue operating model from scratch
 
-My leadership experience includes direct reports, matrix teams, distributed delivery and offshore operating models.
+At Pleo, I built the lead-to-deal operating model across product-led and sales-led motions.
 
-I have owned or materially led work across:
+- Led a **3-person MOPS team** with a **~$1.3M operations and technology budget**
+- Improved **MQL-to-SQL 35%**
+- Increased **QoQ pipeline 15%**
+- Improved **free-to-paid conversion 20%** by bringing product-usage signals into scoring
+- Reduced SDR response time to **under 4 hours** through better routing, prioritisation and SLA design
 
-- Revenue and Marketing operating-model design
-- Lifecycle, scoring, routing, handoffs and SLAs
-- CRM, marketing automation and martech governance
-- Platform migration and consolidation
-- Attribution, pipeline, forecasting and executive reporting
-- Team design, intake, prioritisation and service models
-- Enablement, adoption and change governance
-- AI-assisted operating workflows
+### Nutanix — planning and performance at regional scale
 
-## The problems I am best suited to solve
+At Nutanix, I led EMEA Marketing Operations strategy across **14 countries** with a **4-person direct team** and an **$18M annual marketing budget**.
 
-- A GTM organisation where reported pipeline and believed pipeline have diverged
-- A post-merger or high-growth environment with competing lifecycle models and fragmented systems
-- A martech estate with overlapping tools, unclear system authority and unowned integrations
-- A Marketing Operations function that needs to move from service desk to commercial infrastructure
-- An organisation preparing to apply automation or AI to an operating foundation that is not ready
-- A transformation that needs someone who can move from executive framing into implementation detail
+The Multi-Touch Lead Engine transformation contributed to:
 
-## Founder builds alongside my core work
+- **+156% MQL**
+- **+32% inquiries**
+- **+19% CTR**
+- **+120% downloads**
 
-I have also built ventures that extend, rather than replace, my main career expertise.
+I also built executive-level reporting for eStaff and Board stakeholders and won a Marketing Quarterly Innovation Award for an HG Insights account propensity model.
 
-ThinkBud began as something I wanted to create for my own children. Over time, it developed into a broader learning-intelligence platform for UK 11+ preparation. Building it required me to apply the same operating principles I use professionally — clear authority, structured data, explicit decision rules, testing, governance and controlled change — to product design, learning logic and software delivery. Visit [www.thinkbud.co.uk](https://www.thinkbud.co.uk).
+### Equinix — systems, productivity and global execution
 
-LYNR applies my Revenue and GTM experience to a senior execution model built around diagnosis, clear scope, one accountable lead and a clean handback. Visit [getlynr.com](https://getlynr.com).
+At Equinix, I owned global marketing systems with **2 direct and 8 matrix reports** and a **~$1.6M systems budget**.
 
-These builds demonstrate that I can transfer my core operating judgement into new contexts. They are not a substitute for the depth of my Marketing Operations and Revenue Operations career.
+ABM, campaign automation and event technology work contributed to:
 
-## Where I am a weaker fit
+- **+15% SDR productivity**
+- **+13% SQL**
+- **+10% programme ROI**
 
-Deep product analytics ownership, sales compensation design and finance-owned revenue accounting are adjacent to my work but are not my core disciplines.
+I also built Salesforce dashboards across 13 countries and helped establish offshore campaign production that doubled capacity and reduced turnaround time.
 
-## International and distributed scope
+## What I build
 
-My experience includes EMEA and global operating scope, cross-regional stakeholder leadership, distributed teams and multi-market lifecycle, consent and governance requirements.
+### MOPS and RevOps teams
 
-## Selected evidence
+I have built and led teams from startup environments through global COE models. I care about role clarity, service design, prioritisation, capability, career paths and the balance between specialist depth and business-facing ownership.
 
-- [Revenue Operating System case](REVENUE-OPERATING-SYSTEM-CASE-STUDY.md)
+The objective is not just more capacity. It is a team that can improve the business rather than become a queue for requests.
 
-Additional case studies (Unified Lifecycle Governance, Campaign Operations OS, Pipeline Truth and Attribution, Modern MOPS Team Operating Model), the GTM Command Center, and runnable synthetic tools are held in the full private portfolio — available on request.
+### Martech and revenue architecture
 
----
+My background spans Salesforce, Marketo, HubSpot, Iterable, Snowflake, Tableau, Demandbase, Terminus, LeanData, Chili Piper, Segment, Hightouch, Salesloft, Outreach and the data/integration layer around them.
 
-[← Back to overview](README.md)
+I have implemented, migrated, consolidated and governed stacks at enterprise scale. The tool matters, but architecture, ownership, adoption and measurement matter more.
+
+### Lifecycle, pipeline and attribution
+
+I build the rules underneath GTM: lifecycle stages, scoring, routing, handoffs, SLAs, source governance, attribution and pipeline reporting.
+
+The aim is a shared commercial model that Marketing, Sales, Product, Finance and leadership can actually use — not five versions of the funnel living in five different systems.
+
+### AI strategy and operating workflows
+
+I use AI as an operating capability, not a slide in a transformation deck.
+
+My practical view is:
+
+1. Start with the commercial problem or decision
+2. Fix unclear process, ownership and data first
+3. Introduce AI where it improves speed, quality, productivity or decision-making
+4. Keep human accountability where judgement matters
+5. Measure whether the workflow actually improved the operating metric
+
+That is the difference between AI experimentation and an AI operating strategy.
+
+### Planning, measurement and investment decisions
+
+I have managed budgets from ~$360K operations scope through to an $18M regional marketing budget. I have worked closely with Finance, RevOps, CROs and CMOs on pipeline targets, forecasting, attribution, QBRs, MBRs and technology investment.
+
+Good planning connects resources to outcomes. It should tell you what to stop, what to scale and where the next pound or hour should go.
+
+## The kinds of problems I want to solve
+
+I'm most useful when a **CMO, CRO, CPO, RevOps leader or MOPS leader** is dealing with one or more of these:
+
+- Growth has outpaced the operating model
+- Pipeline is important but confidence in the numbers is low
+- Marketing contribution is difficult to defend commercially
+- The organisation needs to connect PLG and sales-led motions
+- The martech/revtech stack needs rationalising or redesigning
+- Teams are compensating for process problems with more headcount
+- A merger or major transformation has created conflicting systems and definitions
+- AI adoption is happening tool-by-tool rather than as a coherent strategy
+- Operations needs to move from support function to business multiplier
+
+## Things I'm building
+
+I also like building outside the boundaries of a job description.
+
+**[ThinkBud](https://www.thinkbud.co.uk)** began as something I wanted to create for my own children and developed into a broader learning-intelligence product.
+
+**[LYNR](https://getlynr.com)** applies my GTM and revenue operating experience to senior execution and transformation work.
+
+Both have pushed me further into product thinking, AI, workflow design, governance and hands-on building. They complement my operating career rather than replace it.
+
+## Education and certifications
+
+**Education** — MBA in Business Administration and Marketing · BSc in Applied Business Computing
+
+**Certifications** — Salesforce ADM201 · Forrester Demand and Account-Based Marketing · Tableau Desktop · SiriusDecisions B2B Marketing Foundations Pro · Strategic Marketing Planning
+
+## Want to see how I think?
+
+- [Employer Brief](EMPLOYER-BRIEF.md)
+- [Revenue Operating System case study](REVENUE-OPERATING-SYSTEM-CASE-STUDY.md)
+- [Back to portfolio overview](README.md)
+
+A deeper private portfolio with additional case studies, operating frameworks and applied-AI diagnostics is available on request.
