@@ -30,7 +30,7 @@ At Contentsquare, that included building a Global MOPS COE supporting 120+ marke
 
 I have seen what happens when every new problem becomes another tool.
 
-At Contentsquare, I helped consolidate 100+ tools to 50 while reducing cost and improving execution speed. I have also led major platform changes including HubSpot-to-Marketo migration, Salesforce rebuilds, lifecycle redesign and enterprise reporting architecture.
+At Contentsquare, I consolidated 100+ tools to 50 while reducing cost and improving execution speed. I also led major platform changes including the HubSpot-to-Marketo migration, Salesforce rebuild, lifecycle redesign and enterprise reporting architecture.
 
 The principle is simple: fewer tools only matter if the remaining system works better.
 
