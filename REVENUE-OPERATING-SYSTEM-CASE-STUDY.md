@@ -1,128 +1,174 @@
-# Rebuilding a Fragmented Revenue Operating System
+# Rebuilding a Revenue System When Nobody Trusts the Numbers
 
-*Evidence classification: Composite implemented experience — independently reconstructed from repeated patterns across multiple roles.*
+This is a composite of patterns I've worked through across several roles. I've rebuilt it from scratch and kept it company-neutral so the operating thinking is visible without exposing employer-specific material.
 
-## What this case is really about
+## The situation
 
-The easiest way to explain this case is that the organisation did not have one revenue operating problem. It had several teams, motions and systems that each made sense on their own, but no shared model underneath them.
+The business did not really have one revenue problem.
 
-Marketing, Sales, outbound, partner and customer teams were using different definitions, ownership rules and reporting assumptions. The visible temptation was to fix the CRM. The real work was to create an operating spine that the systems could express.
+It had several teams, motions and systems that each made sense on their own, but stopped making sense when you tried to connect them.
 
-This is a pattern I have seen more than once, which is why I have rebuilt it here as a company-neutral composite rather than presenting one employer story.
+Marketing had one version of the lifecycle. Sales had another. Outbound, partner and customer teams had their own rules. The CRM contained years of logic. Reporting was trying to reconcile all of it after the fact.
 
-## What I was seeing
+Everyone could explain their part of the process.
 
-The organisation had accumulated:
+Nobody could explain the whole revenue system with confidence.
 
-- Multiple demand and sales motions
-- Local lifecycle definitions
-- Inconsistent handoffs
-- Overlapping platform logic
-- Manual exception handling
-- Executive reporting that could not be reconciled
+The obvious answer was to "fix the CRM".
 
-Each team could explain its own process. The organisation could not explain how the processes connected.
+That would have been the wrong place to start.
+
+## What was actually going wrong
+
+The symptoms were familiar:
+
+- Pipeline changed depending on which report you opened
+- Lead quality arguments were being settled with anecdotes
+- Routing exceptions had become normal operations
+- Teams were using spreadsheets to work around the official process
+- Different systems were making different decisions about the same record
+- Marketing, Sales and Finance were not always working from the same definitions
+- Tool changes were being discussed before ownership and process questions had been resolved
+
+The technology was part of the problem, but it was not the root cause.
+
+The real issue was that the business had never made some important decisions clearly enough.
+
+Who owns this stage? What does this status actually mean? When has a handoff happened? What is a legitimate exception? Which system is authoritative? What evidence should leadership trust?
+
+Until those questions were answered, more automation would simply make the confusion move faster.
 
 ## My role
 
-My role was to diagnose the operating failure, define the cross-functional design, translate it into system and data requirements, sequence implementation and establish governance.
+My job was to pull the whole thing together.
 
-The work required partnership across Marketing, Sales, SDR, Customer Success, Finance, Data and Technology.
+That meant working across Marketing, Sales, SDR, Customer Success, Finance, Data and Technology to understand the current state, find the real breaks, agree the operating rules and then translate those rules into systems, data and reporting.
 
-## The diagnosis
+This is the kind of work I enjoy because it sits between strategy and implementation.
 
-The visible symptoms included:
+You have to be senior enough to resolve cross-functional trade-offs, but close enough to the detail to understand why the routing rule, field, workflow or report is behaving the way it is.
 
-- Pipeline figures changed between reports
-- Lead quality disputes were resolved through anecdotes
-- Routing exceptions had become normal operations
-- Teams worked from local spreadsheets
-- Tool decisions were being made before ownership decisions
-- Reporting attempted to compensate for inconsistent definitions
+## What I changed first
 
-The underlying causes were:
+I did not start with software.
 
-- No agreed commercial-motion map
-- No shared lifecycle authority
-- Unclear ownership at transitions
-- Systems encoding different versions of the process
-- Data quality work disconnected from decision value
-- No governance mechanism for exceptions and change
+I started with the commercial motion.
 
-## The principles I used
+### 1. Get everyone onto the same picture
 
-- One commercial language, with motion-specific rules where genuinely required
-- Ownership before automation
-- One authoritative state per decision
-- Explicit acceptance at material handoffs
-- Exceptions designed and measured
-- Minimum critical data rather than universal completeness
-- Reporting built from governed definitions
-- Adoption treated as part of the system
+We mapped how demand actually entered and moved through the business — inbound, outbound, partner, product-led and customer motions where relevant.
 
-## The operating model — the decisions I made
+Not the version in a slide deck. The version people were actually running.
 
-**Process**
-- Defined the commercial motions and their legitimate differences
-- Created shared lifecycle meanings
-- Established entry, exit and stop conditions
-- Designed acceptance, rejection and recycling
-- Separated standard flow from approved exceptions
+That exposed where teams were using different definitions, where ownership disappeared between functions and where local workarounds had quietly become part of the process.
 
-**Systems**
-- Identified the authoritative platform for each state
-- Removed duplicate logic where different systems attempted to own the same decision
-- Sequenced configuration behind approved operating definitions
-- Introduced release and change controls
+### 2. Make lifecycle and handoffs explicit
 
-**Data**
-- Identified fields that drove ownership, money, customer treatment or executive reporting
-- Prioritised those fields over broad hygiene activity
-- Defined lineage and reconciliation requirements
-- Established named ownership for critical definitions
+For the important stages and transitions, we defined:
 
-**Governance**
-- Created a cross-functional decision forum
-- Recorded rules, owners, exceptions and review dates
-- Added adoption, SLA and data-quality measures
-- Established escalation for unresolved definitions
+- What the stage meant
+- What had to be true before something entered it
+- Who owned it
+- What counted as acceptance or rejection
+- What happened when it stalled
+- When recycling was appropriate
+- Which exceptions were legitimate
 
-## How I would sequence the work
+This sounds basic. In complex GTM environments, it rarely is.
 
-1. Current-state mapping
-2. Decision and ownership workshops
-3. Target operating model
-4. Minimum critical-data definition
-5. System design and dependency plan
-6. Controlled implementation
-7. Scenario testing
-8. Enablement through real workflows
-9. Reporting reconciliation
-10. Governance and continuous review
+A lot of pipeline problems are really definition and ownership problems wearing a reporting costume.
 
-## What changed
+### 3. Decide which system gets to be right
 
-The reconstructed pattern produced:
+Where multiple platforms were trying to control the same decision, we simplified the authority model.
 
-- A single operating language across functions
-- Clearer ownership and acceptance
-- Reduced dependence on manual interpretation
+One system should own a state or decision. Other systems can consume it, enrich it or act on it, but they should not quietly create competing truths.
+
+That gave us a much cleaner basis for CRM, marketing automation, routing and reporting changes.
+
+### 4. Focus data work on what changes a decision
+
+I am not a fan of generic "clean the database" programmes with no commercial priority.
+
+We focused first on the data that affected:
+
+- Ownership
+- Routing
+- Customer treatment
+- Pipeline
+- Revenue reporting
+- Forecasting
+- Executive decisions
+
+If a field can change money, ownership or customer experience, it deserves stronger governance than a field nobody uses.
+
+### 5. Build governance into the model
+
+The system needed a way to evolve without returning to hidden configuration and local rules.
+
+So the design included:
+
+- Named owners for important definitions
+- A cross-functional place to resolve changes and exceptions
+- SLA and adoption measures
+- Data-quality checks tied to business decisions
+- Change control for system logic
+- A clear escalation path when teams could not agree
+
+Governance was not the final slide in the project. It was part of the operating system.
+
+## How I would sequence a build like this
+
+I normally think about this type of transformation in this order:
+
+1. Map what is really happening today
+2. Find the decisions and ownership gaps underneath the symptoms
+3. Agree the target lifecycle and operating model
+4. Define the minimum data needed to run it properly
+5. Translate that into system and integration requirements
+6. Build in controlled stages
+7. Test real scenarios and exceptions, not just happy paths
+8. Train teams through the workflows they actually use
+9. Reconcile reporting back to the new definitions
+10. Put ownership and change governance around it
+
+The sequence matters.
+
+If you configure the technology before the business agrees how it wants to operate, you usually end up automating the argument.
+
+## What got better
+
+Because this is a company-neutral composite, I am deliberately not attaching employer-specific metrics to it.
+
+The recurring improvements from this pattern of work were:
+
+- One commercial language across teams
+- Clearer handoffs and ownership
+- Fewer manual interpretations and workarounds
 - More defensible pipeline reporting
-- A practical basis for automation and AI
-- A model that could evolve through governance rather than hidden configuration
+- Better conditions for automation and AI
+- A clearer path for Marketing, Sales, Product and Finance to work from the same operating model
+- A system that could change through visible governance rather than hidden configuration
 
-I have intentionally left out exact employer metrics. The purpose of the case is to show the operating decisions and implementation logic, not to create a stronger story through numbers I cannot safely evidence here.
+For me, that is the commercial point of Revenue Operations and Marketing Operations.
+
+Not more process.
+
+**Better execution, better productivity, better decisions and more confidence in how activity becomes pipeline and revenue.**
 
 ## What I learned
 
-- CRM transformation without operating-model agreement creates faster inconsistency
-- A shared definition that nobody accepts operationally is not shared
-- Exception volume is one of the best indicators of design weakness
-- Adoption improves when teams can see how the model changes their daily decisions
-- AI becomes useful only after the evidence and accountability layers are explicit
+A few lessons have held up across different companies:
+
+- **CRM transformation cannot fix operating-model disagreement.** It usually makes the disagreement more expensive.
+- **A definition is not shared because it exists in a document.** It is shared when teams use it to make the same decision.
+- **Exception volume tells you a lot.** If everybody needs a workaround, the standard process is probably wrong.
+- **Adoption is part of the design.** A technically perfect model nobody uses is still a failed model.
+- **AI needs an operating foundation.** If ownership, evidence and data are unclear, AI gives you faster uncertainty rather than better judgement.
+- **The best operating model creates leverage.** It should help the business do more useful work without headcount, tooling and complexity scaling at the same rate.
 
 ---
 
-[← Back to overview](README.md) · [Professional Profile](PROFILE.md) · [Employer Brief](EMPLOYER-BRIEF.md)
+[← Back to overview](README.md) · [About me](PROFILE.md) · [Employer brief](EMPLOYER-BRIEF.md)
 
-Additional case studies (Unified Lifecycle Governance, Campaign Operations OS, Pipeline Truth and Attribution) and the underlying operating frameworks are held in the full private portfolio — available on request.
+I keep additional case studies covering lifecycle governance, campaign operations, pipeline truth and attribution, team design and applied AI in a deeper private portfolio. Access is available on request.
