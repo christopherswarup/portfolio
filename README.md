@@ -22,9 +22,9 @@ I'm currently between roles and available immediately for the right Head, Senior
 - **Improved the quality of commercial decisions** — built a Snowflake + Tableau reporting layer that improved forecast accuracy 30% and reporting reliability 40%.
 - **Used AI where it moved a real operating metric** — deployed AI-assisted routing and prioritisation that cut SDR response lag 40% and improved MQL-to-SDR velocity 35%.
 - **Built revenue infrastructure from scratch** — at Pleo, designed the lead-to-deal operating model across PLG and sales-led motions, contributing to +15% QoQ pipeline, +35% MQL-to-SQL and +20% free-to-paid conversion.
-- **Scaled demand and planning across large organisations** — at Nutanix, helped drive +156% MQL growth while managing an $18M annual marketing budget across 14 EMEA countries.
+- **Scaled demand and planning across large organisations** — at Nutanix, drove +156% MQL growth while managing an $18M annual marketing budget across 14 EMEA countries.
 - **Improved seller productivity and conversion** — at Equinix, ABM and event automation increased SDR productivity 15%, SQL 13% and programme ROI 10%.
-- **Built before “GTM systems” became a category** — at FE fundinfo, led a Salesforce + HubSpot overhaul across three sales organisations in eight months, including £150K one-off vendor savings and ~£35K annual platform savings; at Finastra, helped build one of Europe's early enterprise Marketo environments, with leads +30%, lead-to-opportunity +40% and sales cycle –25% after lifecycle and qualification redesign.
+- **Built before “GTM systems” became a category** — at FE fundinfo, led a Salesforce + HubSpot overhaul across three sales organisations in eight months, including £150K one-off vendor savings and ~£35K annual platform savings; at Finastra, led one of Europe's early enterprise Marketo deployments, with leads +30%, lead-to-opportunity +40% and sales cycle –25% after lifecycle and qualification redesign.
 
 I care about technology, but I care more about what it changes: **impact, effectiveness, efficiency, productivity, conversion, pipeline, forecast confidence, operating leverage and ultimately revenue performance.**
 
