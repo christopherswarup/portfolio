@@ -1,95 +1,116 @@
-# Employer Brief
+# If you're considering me for a role
 
-## The honest version
+You probably don't need another polished bio. You need to know whether I can take ownership of a messy GTM problem, build the right operating model and improve the commercial outcome.
 
-You are probably trying to work out three things quite quickly:
+That's the lens I'd use to assess me.
 
-1. What level do I really operate at?
-2. What kinds of problems can I take ownership of?
-3. Can I move from strategy into the detail required to make the change work?
+I'm a senior Marketing Operations, Revenue Operations and GTM systems leader. I have spent 15+ years building teams, martech, lifecycle, reporting, planning and revenue infrastructure across B2B SaaS and enterprise technology.
 
-Here is the clearest answer I can give you.
+I am currently available immediately for the right permanent, fractional or contract mandate.
 
-I am a senior Marketing Operations, Revenue Operations and GTM systems leader. I work best in organisations that have grown faster than their operating model.
+## Where I tend to add the most value
 
-The visible problems are usually familiar: pipeline numbers are disputed, handoffs are inconsistent, platforms overlap, teams work around the process, and Operations is stuck reacting to requests. I look underneath those symptoms and fix the decisions, ownership, process and data that are causing them.
+### 1. Build or rebuild the operating layer behind growth
 
-## The roles this work supports
+When Marketing, Sales and Product have grown faster than the way they work together, I can help rebuild the shared model underneath them — lifecycle, routing, handoffs, SLAs, ownership, systems, data and reporting.
 
-I am currently available immediately for the right mandate — permanent, fractional or contract:
+I have done this in startup, scale-up, enterprise and post-merger environments.
 
-- Head or Director of Marketing Operations
-- Head or Director of Revenue Operations
-- GTM Operations or Commercial Operations leader
-- Revenue Systems or Marketing Technology leader
-- Operating-model or transformation leader
-- Fractional senior operator or adviser
+### 2. Turn MOPS / RevOps into a business multiplier
 
-## Where I can help
+Operations should improve business performance, not become a service desk with better tooling.
 
-**Revenue operating model** — I can create one operating spine across commercial motions, lifecycle, ownership, systems, data, reporting and governance.
+I build teams around measurable outcomes: faster execution, better conversion, stronger pipeline, improved seller productivity, lower operating cost and more trusted decision-making.
 
-**Lifecycle and handoffs** — I can resolve conflicting definitions, hidden ownership, stage skips, weak acceptance, recycling and SLA failure.
+At Contentsquare, that included building a Global MOPS COE supporting 120+ marketers, leading 4 direct reports, managing a ~$1.8M MOPS and technology budget, reducing martech cost 18% and improving execution speed 30%.
 
-**Campaign and platform operations** — I can move campaign delivery away from urgent ticket handling and into a governed process with readiness, QA, follow-up, measurement and learning.
+### 3. Simplify martech without slowing the business down
 
-**Pipeline truth** — I can separate source, influence, progression and forecast evidence so Marketing, Sales, Finance and leadership can reconcile the numbers.
+I have seen what happens when every new problem becomes another tool.
 
-**Marketing Operations leadership** — I can move MOPS from service desk to commercial infrastructure through a clear service model, visible priorities, decision rights, platform stewardship, analytics and adoption.
+At Contentsquare, I helped consolidate 100+ tools to 50 while reducing cost and improving execution speed. I have also led major platform changes including HubSpot-to-Marketo migration, Salesforce rebuilds, lifecycle redesign and enterprise reporting architecture.
 
-**Martech, data and transformation** — I can connect platform decisions to process, data quality, integration, governance, migration risk and adoption rather than treating the technology change as a standalone project.
+The principle is simple: fewer tools only matter if the remaining system works better.
 
-**Applied AI** — I can structure AI as decision support with visible evidence, assumptions, limits and named human accountability. I will not use AI to hide a weak operating foundation.
+### 4. Make pipeline and reporting more credible
 
-## What it is like to work with me
+A dashboard is not useful if nobody trusts it.
 
-I start with the decision, not the software.
+I have built lifecycle, attribution, forecasting and reporting frameworks designed to give Marketing, Sales, Finance and leadership a shared commercial view.
 
-I make ownership and definitions explicit before automating them. I connect process, systems, data and reporting as one operating model, because treating them as separate projects usually creates new gaps between them.
+At Contentsquare, a unified Snowflake + Tableau layer improved forecast accuracy 30% and reporting reliability 40%. At Nutanix, I built executive-level revenue reporting used for eStaff and Board discussions while managing an $18M annual marketing budget across 14 countries.
 
-I am comfortable moving between an executive conversation and the implementation detail underneath it. I will challenge a weak assumption, but I also know that a theoretically perfect model is useless if the people running it cannot use it under real pressure.
+### 5. Use AI to improve real operating metrics
 
-I document the system and hand it back. I do not create dependency as a business model.
+I am interested in AI because of what it can change in the operating model — not because every workflow needs an agent.
 
-## Founder builds that extend the picture
+At Contentsquare, AI-assisted routing and prioritisation cut SDR response lag 40% and improved MQL-to-SDR velocity 35%.
 
-Alongside my core career, I have built ThinkBud and LYNR.
+My broader approach is to start with the business problem, fix the process and data foundation, then use AI where it can improve productivity, speed, quality or judgement. Adoption, governance and measurement come with it.
 
-ThinkBud began as something I wanted to create for my own children. As I worked on it, it developed into a broader learning-intelligence platform and forced me to apply the same disciplines I use in Operations — clear ownership, authoritative data, explicit rules, testing and governance — to a real software product. Live site: [www.thinkbud.co.uk](https://www.thinkbud.co.uk).
+### 6. Build teams, not dependency
 
-LYNR applies my Revenue and GTM operating experience to a senior execution model built around clear scope, one accountable lead and a clean handback. Live site: [getlynr.com](https://getlynr.com).
+I've built and led teams across multiple stages and geographies — from a 3-person MOPS team at Pleo to global COE models and distributed teams.
 
-These builds strengthen the core story. They do not replace it.
+I care about strong operators, clear ownership and good systems. The aim is not to make myself indispensable. It is to build something that keeps working when I'm not in every meeting.
 
-## Where I would suggest you look next
+## If you're a CMO, CRO, CPO, RevOps or MOPS leader
 
-- [Professional Profile](PROFILE.md) — the full career history, roles and dates
-- [Revenue Operating System case](REVENUE-OPERATING-SYSTEM-CASE-STUDY.md) — the broadest example of how I diagnose and structure a GTM operating problem
+These are the conversations where I am usually most useful:
 
-Additional case studies (lifecycle governance, campaign operations, pipeline truth and attribution, MOPS team operating model), the operating-frameworks library, and the applied-AI diagnostic tools are held in the full private portfolio — available on request.
+- **"Marketing is doing a lot, but I can't clearly connect it to pipeline."**
+- **"Sales and Marketing still argue about definitions and attribution."**
+- **"Our PLG and sales-led motions don't join up."**
+- **"We've accumulated too much martech and nobody owns the architecture."**
+- **"We're adding headcount because the process doesn't scale."**
+- **"The numbers exist, but I don't fully trust the forecast."**
+- **"Everyone is experimenting with AI, but there is no joined-up strategy."**
+- **"We need someone senior who can design the model and still get into the implementation detail."**
 
-## My leadership style
+That last one is probably the best summary of where I fit.
 
-I prefer explicit trade-offs, visible priorities and named decision rights. Repeatable work should be standardised. Senior judgement should stay close to decisions where ambiguity, risk or cross-functional conflict matter.
+## What I care about commercially
 
-My aim is not to make Operations indispensable because nobody else understands the system. My aim is to build something the organisation can run, govern and improve after the initial change.
+I tend to come back to six measures:
 
-## The environments where I am strongest
+- **Impact** — pipeline, conversion and revenue contribution
+- **Effectiveness** — doing the right work against the right signals and stages
+- **Efficiency** — cost, duplication and unnecessary manual effort
+- **Productivity** — how much useful work teams can do, and how quickly
+- **Confidence** — whether leaders trust the numbers and decisions
+- **Scale** — whether the model still works as complexity increases
 
-- B2B technology and SaaS
-- Growth, scale or transformation stages
-- Multi-region or multi-motion organisations
-- Post-merger operating complexity
-- Material CRM, martech, lifecycle or reporting change
-- AI-enabled operating environments
-- Leadership teams willing to resolve ownership and definition conflicts
+Tools, frameworks and process are means to those ends.
 
-## Where I am a weaker fit
+## A few proof points
 
-Deep product analytics ownership, sales compensation design and finance-owned revenue accounting are adjacent to my work, but they are not my core disciplines.
+- **Contentsquare:** 100+ → 50 martech tools, –18% cost, +30% execution speed, +30% forecast accuracy, +40% reporting reliability, –40% SDR response lag, +35% MQL-to-SDR velocity, $200K agency dependency removed
+- **Pleo:** +15% QoQ pipeline, +35% MQL-to-SQL, +20% free-to-paid conversion, SDR response under 4 hours
+- **Nutanix:** +156% MQL, +32% inquiries, +19% CTR, +120% downloads, $18M annual budget across 14 countries
+- **Equinix:** +15% SDR productivity, +13% SQL, +10% programme ROI
 
-I would rather be clear about that than pretend the portfolio proves something it does not.
+## How I work
 
----
+I'm a builder first.
 
-[← Back to overview](README.md)
+I like getting close enough to the detail to understand why something is broken, but senior enough to connect that problem back to growth, cost, risk and revenue.
+
+I will challenge the software choice if the process is wrong. I will challenge the process if the ownership is unclear. I will challenge the metric if nobody can explain what decision it is meant to drive.
+
+And once the design is clear, I like getting it built.
+
+## Things I'm building alongside my career
+
+**[ThinkBud](https://www.thinkbud.co.uk)** grew from something I wanted to create for my own children into a broader learning-intelligence product.
+
+**[LYNR](https://getlynr.com)** applies my GTM and revenue operating experience to senior execution and transformation work.
+
+Both reflect the same thing I bring to my core career: I like turning messy problems into working systems.
+
+## Where to go next
+
+- [About me and full career](PROFILE.md)
+- [Revenue Operating System case study](REVENUE-OPERATING-SYSTEM-CASE-STUDY.md)
+- [Portfolio overview](README.md)
+
+A deeper private portfolio with additional lifecycle, pipeline, team-design, martech and applied-AI work is available on request.
