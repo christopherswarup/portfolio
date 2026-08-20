@@ -6,7 +6,7 @@ Hi, I'm Chris.
 
 I build the operating layer behind growth — the teams, systems, lifecycle, data, planning and AI workflows that help Marketing, Sales and Product turn activity into pipeline and revenue.
 
-I've spent 15+ years doing that across high-growth SaaS, enterprise technology, post-merger environments and global organisations. Sometimes the job has been building a function from scratch. Sometimes it has been simplifying a stack that has become too expensive and too complicated. Sometimes it has been fixing lifecycle, attribution or reporting because the business no longer trusts its own numbers.
+I've spent 15+ years doing that across high-growth SaaS, enterprise technology, post-merger environments and global organisations. Sometimes that has meant building a function from scratch. Sometimes it has meant fixing a funnel nobody trusted. Sometimes it has meant rationalising an expensive stack, rebuilding reporting for the CMO and Board, or changing how a regional marketing organisation plans an $18M budget against pipeline outcomes.
 
 The common thread is simple: **make GTM work better, faster and with clearer commercial accountability.**
 
@@ -17,13 +17,15 @@ I'm currently between roles and available immediately for the right Head, Senior
 ## A few things I'm proud of
 
 - **Built GTM infrastructure in an AI-native environment** — most recently at DevRev, designed the enterprise lifecycle and lead-management model across inbound, outbound, PLG and event motions, including SLA governance, signal architecture and pipeline reporting standards.
-- **Built and scaled teams and operating models** — including a Global MOPS COE supporting 120+ marketers across EMEA, AMER and APAC, with 4 direct reports and a ~$1.8M MOPS and technology budget at Contentsquare.
-- **Made martech leaner and more useful** — consolidated 100+ tools to 50, reducing cost 18% while improving execution speed 30%.
-- **Improved the quality of commercial decisions** — built a Snowflake + Tableau reporting layer that improved forecast accuracy 30% and reporting reliability 40%.
-- **Used AI where it moved a real operating metric** — deployed AI-assisted routing and prioritisation that cut SDR response lag 40% and improved MQL-to-SDR velocity 35%.
-- **Built revenue infrastructure from scratch** — at Pleo, designed the lead-to-deal operating model across PLG and sales-led motions, contributing to +15% QoQ pipeline, +35% MQL-to-SQL and +20% free-to-paid conversion.
-- **Scaled demand and planning across large organisations** — at Nutanix, drove +156% MQL growth while managing an $18M annual marketing budget across 14 EMEA countries.
-- **Improved seller productivity and conversion** — at Equinix, ABM and event automation increased SDR productivity 15%, SQL 13% and programme ROI 10%.
+- **Built and scaled a global MOPS operating model** — at Contentsquare, built the function supporting 120+ marketers across EMEA, AMER and APAC, spanning analytics, campaign operations, platform operations and lifecycle operations, with 4 direct reports and a ~$1.8M MOPS and technology budget.
+- **Made martech leaner and more useful** — consolidated 100+ tools to 50 at Contentsquare, reducing cost 18% while improving execution speed 30%, alongside major Tier-1 platform procurement, HubSpot→Marketo migration, Salesforce rebuild and Iterable rollout.
+- **Built the executive view of the funnel** — owned CMO-level reporting, pipeline analytics and funnel optics at Contentsquare; the Snowflake + Tableau layer improved forecast accuracy 30% and reporting reliability 40%.
+- **Used AI where it moved a real operating metric** — deployed AI-assisted routing and prioritisation at Contentsquare that cut SDR response lag 40% and improved MQL-to-SDR velocity 35%.
+- **Built revenue infrastructure from scratch** — at Pleo, designed the lead-to-deal model across PLG and sales-led motions, built the operating team and SDR-supporting tech stack, contributing to +15% QoQ pipeline, +35% MQL-to-SQL and +20% free-to-paid conversion.
+- **Turned planning into a commercial operating rhythm** — at Nutanix, owned the $18M EMEA marketing planning process across 14 countries, tying spend, programmes and forecasts back to pipeline outcomes while building the QBR, monthly reporting and executive performance model.
+- **Moved Nutanix from single-touch lead management toward a multi-touch, account-aware model** — combining ICP thinking, buyer-journey content mapping, scoring, attribution and ABM principles; the transformation drove +156% MQL, +32% inquiries, +19% CTR and +120% downloads while improving lead quality and downstream conversion.
+- **Built campaign operations for leverage** — automated and standardised campaign production, moved non-strategic execution into an offshore model and doubled throughput so marketers could spend more time on strategy and programmes rather than production work.
+- **Built RevOps-style operating infrastructure before RevOps was a common label** — at Equinix, owned global lead management, funnel reporting and the demand-centre technology stack; led marketing-side GDPR/data-governance work, helped build the ABM stack around Terminus, and set up a Sales + Marketing Ops (SMOPS) forum to review funnel performance, ownership and conversion across functions.
 - **Built before “GTM systems” became a category** — at FE fundinfo, led a Salesforce + HubSpot overhaul across three sales organisations in eight months, including £150K one-off vendor savings and ~£35K annual platform savings; at Finastra, led one of Europe's early enterprise Marketo deployments, with leads +30%, lead-to-opportunity +40% and sales cycle –25% after lifecycle and qualification redesign.
 
 I care about technology, but I care more about what it changes: **impact, effectiveness, efficiency, productivity, conversion, pipeline, forecast confidence, operating leverage and ultimately revenue performance.**
@@ -32,7 +34,9 @@ I care about technology, but I care more about what it changes: **impact, effect
 
 ### Teams that can scale
 
-I build MOPS and RevOps functions with clear ownership, priorities, service models and decision rights. The goal is not a bigger Ops team. It is a more capable one that can support growth without headcount and complexity rising at the same rate.
+I build MOPS and RevOps functions with clear ownership, priorities, service models and decision rights. I have built teams covering campaign operations, platform operations, analytics, lifecycle, data and sales support.
+
+The goal is not a bigger Ops team. It is a more capable one that can support growth without headcount and complexity rising at the same rate.
 
 ### GTM operating models
 
@@ -40,7 +44,7 @@ Lifecycle definitions, lead management, scoring, routing, handoffs, SLAs, attrib
 
 ### Martech and revenue systems
 
-Salesforce, Marketo, HubSpot, Iterable, Snowflake, Tableau, routing, enrichment, ABM and the integration layer around them. I have built, migrated, consolidated and governed enterprise stacks — but I start with the commercial problem, not the software.
+Salesforce, Marketo, HubSpot, Iterable, Snowflake, Tableau, routing, enrichment, ABM and the integration layer around them. I have built, migrated, procured, consolidated and governed enterprise stacks — but I start with the commercial problem, not the software.
 
 ### Product signals into revenue motion
 
@@ -58,6 +62,8 @@ I also work hands-on with AI tools for research, workflow design, automation, QA
 
 I connect operating plans, budgets, funnel performance, pipeline, attribution and forecast signals so leaders can make better investment decisions and teams know what good looks like.
 
+Planning, QBRs and reporting should not be administrative rituals. They should force a commercial conversation: **what are we spending, what do we expect back, what is actually happening, and what should we change?**
+
 ## The problems I tend to get pulled into
 
 If you're a **CMO, CRO, CPO, RevOps leader or MOPS leader**, these will probably sound familiar:
@@ -68,6 +74,7 @@ If you're a **CMO, CRO, CPO, RevOps leader or MOPS leader**, these will probably
 - PLG, SLG, partner and outbound motions do not connect cleanly
 - The martech stack has grown faster than the operating model
 - Reporting exists, but leadership still debates the numbers
+- Planning tracks spend but does not force an outcome conversation
 - Teams are adding people to compensate for weak process or tooling
 - AI experimentation is everywhere, but there is no joined-up operating strategy
 - A merger, scale-up phase or new GTM motion has exposed the cracks in the system
@@ -78,7 +85,7 @@ The best outcome is not more Ops. It is **more operating leverage** — better d
 
 ## If you want to go deeper
 
-- **[About me and career](PROFILE.md)** — roles, scale, teams and measurable outcomes
+- **[About me and career](PROFILE.md)** — roles, scale, teams and what I actually built
 - **[Employer brief](EMPLOYER-BRIEF.md)** — the mandates where I add the most value
 - **[Revenue Operating System case study](REVENUE-OPERATING-SYSTEM-CASE-STUDY.md)** — how I diagnose and rebuild a fragmented GTM operating model
 
