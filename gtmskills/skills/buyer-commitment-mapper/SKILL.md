@@ -55,4 +55,4 @@ The same discipline applies to sales discovery: the first job in a discovery cal
 - **Gap priority** — which missing stage to fill first (usually the earliest gap in the arc, since later-stage content can't compensate for an unaddressed earlier stage)
 
 ---
-*Skill 3 of 6 in the [GTM Skills collection](../../README.md) by [Christopher Swarup](https://github.com/christopherswarup) — GTM Ops leader, 15+ years in RevOps/MOPS across Finastra, Equinix, Nutanix, Pleo, Contentsquare and DevRev.*
+*Skill 3 of 6 diagnostic skills in the [GTM Skills collection](../../README.md) by [Christopher Swarup](https://github.com/christopherswarup) — GTM Ops leader, 15+ years in RevOps/MOPS across Finastra, Equinix, Nutanix, Pleo, Contentsquare and DevRev.*

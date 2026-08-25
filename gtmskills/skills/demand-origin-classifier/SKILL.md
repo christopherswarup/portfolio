@@ -59,4 +59,4 @@ When applying this skill, always state:
 - **Flag** if the portfolio is mixed and needs more than one demand model
 
 ---
-*Skill 1 of 6 in the [GTM Skills collection](../../README.md) by [Christopher Swarup](https://github.com/christopherswarup) — GTM Ops leader, 15+ years in RevOps/MOPS across Finastra, Equinix, Nutanix, Pleo, Contentsquare and DevRev.*
+*Skill 1 of 6 diagnostic skills in the [GTM Skills collection](../../README.md) by [Christopher Swarup](https://github.com/christopherswarup) — GTM Ops leader, 15+ years in RevOps/MOPS across Finastra, Equinix, Nutanix, Pleo, Contentsquare and DevRev.*

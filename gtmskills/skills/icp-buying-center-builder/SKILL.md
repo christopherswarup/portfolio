@@ -64,4 +64,4 @@ Mixing these into one blended score usually means fast-moving intent noise drown
 - **Recommended build method** with the trade-off stated
 
 ---
-*Skill 4 of 6 in the [GTM Skills collection](../../README.md) by [Christopher Swarup](https://github.com/christopherswarup) — GTM Ops leader, 15+ years in RevOps/MOPS across Finastra, Equinix, Nutanix, Pleo, Contentsquare and DevRev.*
+*Skill 4 of 6 diagnostic skills in the [GTM Skills collection](../../README.md) by [Christopher Swarup](https://github.com/christopherswarup) — GTM Ops leader, 15+ years in RevOps/MOPS across Finastra, Equinix, Nutanix, Pleo, Contentsquare and DevRev.*

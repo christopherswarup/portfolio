@@ -69,4 +69,4 @@ Building the account list before the market screen means every downstream accoun
 - **What to fix before targeting** — for any account that's valuable but not yet winnable or aligned
 
 ---
-*Skill 2 of 6 in the [GTM Skills collection](../../README.md) by [Christopher Swarup](https://github.com/christopherswarup) — GTM Ops leader, 15+ years in RevOps/MOPS across Finastra, Equinix, Nutanix, Pleo, Contentsquare and DevRev.*
+*Skill 2 of 6 diagnostic skills in the [GTM Skills collection](../../README.md) by [Christopher Swarup](https://github.com/christopherswarup) — GTM Ops leader, 15+ years in RevOps/MOPS across Finastra, Equinix, Nutanix, Pleo, Contentsquare and DevRev.*

@@ -48,4 +48,4 @@ When marketing is evaluated on pipeline alone, every dollar spent on sales enabl
 - **Recommended framing** for a budget conversation or strategy doc that reflects the full picture, not pipeline alone
 
 ---
-*Skill 6 of 6 in the [GTM Skills collection](../../README.md) by [Christopher Swarup](https://github.com/christopherswarup) — GTM Ops leader, 15+ years in RevOps/MOPS across Finastra, Equinix, Nutanix, Pleo, Contentsquare and DevRev.*
+*Skill 6 of 6 diagnostic skills in the [GTM Skills collection](../../README.md) by [Christopher Swarup](https://github.com/christopherswarup) — GTM Ops leader, 15+ years in RevOps/MOPS across Finastra, Equinix, Nutanix, Pleo, Contentsquare and DevRev.*
