@@ -23,8 +23,8 @@ These are the operating patterns I use in practice, written up so a Claude-equip
 ```mermaid
 graph LR
     O[Orchestrator] -->|routes to| A[Demand Origin Classifier]
-    A --> B[Market & Account Prioritizer]
-    B --> C[ICP & Buying-Centre Builder]
+    A --> B["Market & Account Prioritizer"]
+    B --> C["ICP & Buying-Centre Builder"]
     C --> D[Buyer Commitment Mapper]
     D --> E[GTM Metrics Architect]
     O -.-> F[Full-Audience Value Diagnostic]
@@ -85,6 +85,10 @@ The ambiguous case → `gtm-diagnostic-orchestrator` takes over, runs the releva
 ## Background
 
 I've spent 15+ years running RevOps/GTM inside Finastra, Equinix, Nutanix, Pleo, Contentsquare, and DevRev — see the [main profile](../README.md) for the detail. These skills are that experience turned into something reusable rather than something I re-explain from scratch on every engagement.
+
+## Contributing
+
+Found a gap, or a real-world case that sharpens one of these? Open an issue or a PR — field-tested corrections are the only kind these are built to take. This isn't a theoretical framework; if something doesn't hold up against a real GTM problem, I want to know.
 
 ## License
 
