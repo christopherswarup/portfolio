@@ -7,6 +7,17 @@ description: Design or audit a GTM/marketing measurement system using a metric-c
 
 The most common measurement failure in GTM isn't having too few metrics — it's reporting a metric at the wrong level of the ladder and letting it stand in for a level it doesn't actually reach.
 
+## Inputs to gather
+
+**Required:**
+- The actual dashboard, report, or metric list in question — paste it, describe it, or list the metric names
+
+**Helpful, not blocking:**
+- Who the audience is (board, exec team, internal ops) and how often they see it
+- What decision the report is supposed to support — if nobody can name one, that's itself the finding
+
+**If none of this is available:** ask directly — *"what decision is this report meant to drive, and who's making it?"* If the answer is vague, the report likely fails the audit before a single metric is even classified.
+
 ## The metric-class ladder
 
 | Class | Answers | Example | Risk if mistaken for the level above |

@@ -7,6 +7,18 @@ description: Build an Ideal Customer Profile sized against the realistically obt
 
 Two mistakes account for most broken ICPs: sizing against the wrong market number, and defining "ideal customer" at the wrong altitude.
 
+## Inputs to gather
+
+**Required:**
+- Your current ICP definition, even if informal ("companies like X") — there's always a starting point to sharpen
+
+**Helpful, not blocking:**
+- A short list of your best-fit customers (5-10 is enough) and why they're a good fit
+- A CRM export of closed-won and closed-lost deals, if available — win-rate patterns by segment are the fastest way to find the real buying centre
+- Any intent-data or firmographic tooling already in use (tells you what signal layer you already have vs. need)
+
+**If none of this is available:** default to the internal method — ask *"who are your five best customers right now, and what do they have in common at the department level, not just the company level?"* That single question usually surfaces the buying centre.
+
 ## Fix 1 — size against what's actually obtainable
 
 Use the standard sizing funnel, but plan against the right layer of it:

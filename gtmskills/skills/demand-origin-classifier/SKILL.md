@@ -15,6 +15,18 @@ Every GTM strategy assumes an answer to one upstream question, usually without a
 | **Substitution** | Aware of the problem; already has a workaround or inferior fix | Whatever they use today (a manual process, a legacy tool, a competitor) | Prove a materially better approach exists | Active dissatisfaction with the current approach |
 | **Active-Category** | Buys this routinely; has budget and a defined process | Direct, named competitors | Win on differentiation — features, price, service, trust | Budget + authority + need + timeframe are all already in place |
 
+## Inputs to gather
+
+**Required:**
+- What the product/offer actually solves, and for whom (the specific segment or persona)
+
+**Helpful, not blocking:**
+- Real prospect language — how do they describe the problem when they first hear about it? Do they already have a name for it?
+- What they use today instead (a competitor, a manual process, nothing)
+- Any evidence of budget already allocated in this category (RFPs, existing vendor spend, a line item in their plan)
+
+**If none of this is available:** ask one targeted question rather than guessing — *"When someone in this segment first hears what we do, do they already agree it's a problem worth solving, or do you have to convince them it's a problem at all?"* The answer alone usually separates Dormant from Substitution/Active-Category.
+
 ## Why this gates everything downstream
 
 - **Messaging:** Dormant demand needs education content; Active-Category demand needs comparison content. Running category-style comparison ads into a dormant market wastes spend explaining a choice nobody's making yet.

@@ -7,6 +7,19 @@ description: Build a defensible target-account or ABM list using a two-gate scre
 
 Most target-account lists answer the wrong question: "who could plausibly buy this?" That's nearly everyone, which is why the list ends up too big, too generic, and under-resourced per account. The fix is prioritizing in two passes, at two altitudes, in order.
 
+## Inputs to gather
+
+**Required:**
+- A candidate list — either segments/verticals to screen, or named accounts (whichever altitude you're working at)
+
+**Helpful, not blocking:**
+- Any market data on the segments (growth rate, category spend, recent funding/trigger events)
+- Firmographics on named accounts (size, industry, tech stack, existing relationship if any)
+- Sales capacity/coverage — who would actually work these accounts, and do they have bandwidth
+- CRM data completeness on the accounts in question
+
+**If none of this is available:** score qualitatively on what's actually known and say so explicitly — don't invent numbers to fill gaps. A segment or account with genuinely unknown data belongs in "needs research," not a guessed score.
+
 ## Gate 1 — Market / segment screen (do this first)
 
 Score each candidate segment on two axes before naming a single account:

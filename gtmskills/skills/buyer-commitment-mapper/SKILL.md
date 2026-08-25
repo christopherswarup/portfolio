@@ -7,6 +7,18 @@ description: Map content, CTAs, and sales discovery questions to the specific st
 
 A buyer doesn't move from "stranger" to "signed" in one step — they climb a ladder of increasingly specific internal commitments. Content, CTAs, and discovery questions only work if they're built for the specific rung the buyer is actually standing on.
 
+## Inputs to gather
+
+**Required:**
+- An inventory of existing content/assets — titles and one-line descriptions are enough, doesn't need to be a formal spreadsheet
+
+**Helpful, not blocking:**
+- Current conversion or funnel data by stage, if tracked
+- Target persona definitions (who's supposed to be reading/watching this)
+- The specific CTAs in use on key pages
+
+**If none of this is available:** ask for whatever exists — a content calendar export, a list of blog URLs, or even just "what have you published in the last quarter?" Partial visibility is enough to start finding the gaps.
+
 ## The six-stage arc (three phases)
 
 | Phase | Stage | The buyer is silently asking | Your job at this stage |

@@ -54,9 +54,11 @@ cp -r portfolio/gtmskills/skills/* ~/.claude/skills/
 ```
 Each skill lands in its own subdirectory under `~/.claude/skills/`. Picked up on the next session.
 
-## How to use — example prompts
+## How to use
 
 You don't invoke these by name. Just describe the situation; the trigger conditions in each `SKILL.md` do the matching.
+
+### Quick reference
 
 | If you say something like... | This fires |
 |---|---|
@@ -67,6 +69,52 @@ You don't invoke these by name. Just describe the situation; the trigger conditi
 | "Review this dashboard before it goes to the board" | `gtm-metrics-architect` |
 | "Finance thinks marketing is just a cost center" | `full-audience-value-diagnostic` |
 | "Pipeline is down and nobody agrees on why" | `gtm-diagnostic-orchestrator` (ambiguous → runs the full sequence) |
+
+### Prompt examples and what to bring
+
+Each skill works with whatever you have — none of this is a hard blocker, but the more of the "bring" list you paste in upfront, the less back-and-forth it takes to get a real answer instead of a generic one.
+
+**`demand-origin-classifier`**
+- *"We're launching in mid-market — is that Dormant or Active-Category demand for us?"*
+- *"Prospects keep saying 'we've never really thought about this' — what does that tell us?"*
+- *"Compare the demand type for our core product vs. our new AI add-on."*
+- **Bring:** what the product solves and for whom · *(helpful)* real prospect language, what they use today instead, evidence of existing category budget
+
+**`market-account-prioritizer`**
+- *"Here's our list of 40 target accounts in fintech — score and prioritize them."*
+- *"We're deciding between healthcare and manufacturing as our next vertical — screen both."*
+- *"Score these 15 named accounts on winnability" (paste a list or CSV)*
+- **Bring:** a candidate segment or account list · *(helpful)* market/growth data, account firmographics, sales capacity/coverage per account
+
+**`icp-buying-center-builder`**
+- *"Our ICP is '500+ employee SaaS companies' — that's too broad, tighten it."*
+- *"Here's a list of our last 20 closed-won deals — what buying-centre pattern do you see?"*
+- *"We're about to buy an intent-data tool — help us separate fit signals from intent signals first."*
+- **Bring:** your current ICP definition, even informal · *(helpful)* a short best-fit customer list, CRM win/loss data
+
+**`buyer-commitment-mapper`**
+- *"Here's our Q1 content calendar — map it to buying stages."*
+- *"Audit our website CTAs — which buying stage does each one actually serve?"*
+- *"Sales says leads aren't ready to buy — check our top-of-funnel content for gaps."*
+- **Bring:** an inventory of existing content/assets (titles + one-liners are enough) · *(helpful)* funnel/conversion data by stage, persona definitions
+
+**`gtm-metrics-architect`**
+- *"Here's our KPI dashboard — classify every metric by class and level."*
+- *"Our exec dashboard has 40 metrics on it — which ones actually matter?"*
+- *"Review this report before it goes to the board on Thursday."*
+- **Bring:** the actual dashboard, report, or metric list in question · *(helpful)* who the audience is and what decision the report is meant to drive
+
+**`full-audience-value-diagnostic`**
+- *"Finance wants to cut our content team — help us build the case for keeping it."*
+- *"List everything marketing did last quarter and show the value spread across audiences."*
+- *"The board asked 'what does marketing actually do' — help me answer that."*
+- **Bring:** a rough list of marketing's recent activity/programs · *(helpful)* the specific challenge being raised and who's raising it, any pipeline metrics already being cited against you
+
+**`gtm-diagnostic-orchestrator`**
+- *"Pipeline is down 20% quarter over quarter and marketing and sales are blaming each other."*
+- *"Give me a full GTM health check before our planning offsite."*
+- *"We're not sure if this is a demand problem or an execution problem — help us find out."*
+- **Bring:** whatever's known about the symptom, however partial · *(helpful)* any hypothesis stakeholders have already proposed, whether it's a new-motion or existing-motion problem
 
 ## Example scenarios
 
@@ -81,6 +129,12 @@ You don't invoke these by name. Just describe the situation; the trigger conditi
 
 **"Pipeline is down" with no clear cause.**
 The ambiguous case → `gtm-diagnostic-orchestrator` takes over, runs the relevant sub-skills in sequence with checkpoints between each, and returns one integrated diagnosis with the 2-3 highest-leverage fixes rather than a symptom-by-symptom list.
+
+**Tightening a vague ICP.**
+*"Our ICP is 'mid-market SaaS companies' and it's not actually helping anyone qualify leads."* → `icp-buying-center-builder` checks whether the target is sized against TAM (too broad) or SOM (correct), then pushes the definition down to buying-centre level — asking which specific department owns the budget and the pain, not just what kind of company fits.
+
+**Defending marketing's budget.**
+*"Finance wants to cut headcount on the content team — they only see it as a cost."* → `full-audience-value-diagnostic` maps what that team actually delivers across all seven audiences, not just pipeline. Pairs with `gtm-metrics-architect` if finance's case cites specific numbers that need auditing first.
 
 ## Background
 

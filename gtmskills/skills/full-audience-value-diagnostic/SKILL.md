@@ -7,6 +7,17 @@ description: Diagnose or defend marketing's value across every audience it actua
 
 "Marketing = lead factory" is the default framing in most revenue orgs, and it's incomplete by design — it only counts the value delivered to one audience (prospective buyers) and ignores the rest.
 
+## Inputs to gather
+
+**Required:**
+- A list of marketing's recent activity — programs, content, enablement work, events — even a rough quarter-in-review list is enough
+
+**Helpful, not blocking:**
+- The specific challenge being raised (a budget cut proposal, a headcount review, a board question) and who's raising it
+- Any existing pipeline/lead metrics already being cited against marketing, so the counter-framing directly addresses them rather than talking past them
+
+**If none of this is available:** ask *"what did marketing actually do last quarter, in plain terms — not the metrics, just the activity?"* The audience map builds naturally once real activity is on the table.
+
 ## The seven audiences marketing actually serves
 
 | Audience | Value delivered | Common metric blind spot |
