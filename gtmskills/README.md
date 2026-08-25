@@ -146,4 +146,4 @@ Found a gap, or a real-world case that sharpens one of these? Open an issue or a
 
 ## License
 
-MIT, scoped to this folder — see [LICENSE](LICENSE). Use freely; attribution appreciated.
+CC BY-NC 4.0, scoped to this folder — see [LICENSE](LICENSE). Free to use and adapt for non-commercial purposes with attribution; not for resale or commercial repackaging without permission.
