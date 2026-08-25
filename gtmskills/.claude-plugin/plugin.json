@@ -1,0 +1,14 @@
+{
+  "name": "gtm-skills",
+  "displayName": "GTM Skills",
+  "version": "1.0.0",
+  "description": "Seven Claude Skills for diagnosing the most common breakpoints in a B2B go-to-market engine — demand classification, account targeting, ICP sizing, content-stage mapping, metrics design, marketing value framing, and an orchestrator that coordinates them for ambiguous problems.",
+  "author": {
+    "name": "Christopher Swarup",
+    "url": "https://github.com/christopherswarup"
+  },
+  "homepage": "https://github.com/christopherswarup/portfolio/tree/main/gtmskills",
+  "repository": "https://github.com/christopherswarup/portfolio",
+  "license": "MIT",
+  "keywords": ["gtm", "go-to-market", "revops", "b2b-sales", "marketing-ops", "sales-ops", "claude-skills"]
+}

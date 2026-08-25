@@ -4,6 +4,8 @@ Seven Claude Skills for diagnosing the most common breakpoints in a B2B go-to-ma
 
 These are the operating patterns I use in practice, written up so a Claude-equipped RevOps, marketing, or sales team can apply them directly.
 
+⭐ If this catches something in your GTM diagnosis, a star helps other RevOps/GTM people find it.
+
 ## The seven
 
 | Skill | Fixes |
@@ -33,20 +35,24 @@ Each skill works standalone — Claude reads its trigger conditions and applies 
 
 ## Setup
 
+**Claude Code — one-command install (recommended)**
+```bash
+/plugin marketplace add christopherswarup/portfolio
+/plugin install gtm-skills@christopherswarup-gtm-skills
+```
+This registers the marketplace defined at the repo root and installs all seven skills as a single plugin. Update later with `/plugin update gtm-skills@christopherswarup-gtm-skills`.
+
 **Claude.ai / Claude Projects**
 1. Open your Project → **Settings** → **Skills** (or **Project knowledge**, depending on your plan).
 2. Add each `SKILL.md` file individually, or add the whole `gtmskills/skills/` folder if your setup supports folder upload.
 3. Skills activate automatically in that project's conversations — no slash command needed.
 
-**Claude Code**
+**Manual copy (Claude Code, Desktop, or Cowork, without the plugin marketplace)**
 ```bash
 git clone https://github.com/christopherswarup/portfolio.git
 cp -r portfolio/gtmskills/skills/* ~/.claude/skills/
 ```
-Each skill lands in its own subdirectory under `~/.claude/skills/`. Claude Code picks them up on the next session.
-
-**Claude Desktop / Cowork**
-Same copy step as Claude Code — both read from the same skills directory.
+Each skill lands in its own subdirectory under `~/.claude/skills/`. Picked up on the next session.
 
 ## How to use — example prompts
 

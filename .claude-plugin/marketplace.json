@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "christopherswarup-gtm-skills",
+  "description": "GTM diagnostic skills for B2B revenue teams — demand classification, account targeting, ICP sizing, content-stage mapping, metrics design, and an orchestrator that routes ambiguous problems through the right ones.",
+  "owner": {
+    "name": "Christopher Swarup",
+    "url": "https://github.com/christopherswarup"
+  },
+  "plugins": [
+    {
+      "name": "gtm-skills",
+      "description": "Seven Claude Skills for diagnosing B2B go-to-market breakpoints, plus an orchestrator that coordinates them for ambiguous problems.",
+      "author": {
+        "name": "Christopher Swarup",
+        "url": "https://github.com/christopherswarup"
+      },
+      "category": "productivity",
+      "source": "./gtmskills",
+      "homepage": "https://github.com/christopherswarup/portfolio/tree/main/gtmskills"
+    }
+  ]
+}
